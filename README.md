@@ -1,1 +1,1 @@
-**A Demo Web Application using spring boot**
+**A Demo Web CRUD Application using spring boot**
